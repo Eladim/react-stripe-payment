@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setting the .env variables
+STRIPE_SECRET_KEY= Your stripe secret key
+
+REACT_APP_STRIPE_PUBLIC_KEY= Your stripe public key
+
+
 ## Available Scripts
 
 In the project directory, you can run:
